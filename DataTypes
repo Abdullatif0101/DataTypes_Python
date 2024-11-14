@@ -1,0 +1,159 @@
+Name1="He is on mars"
+Name2="He is my friend while does not help me in study "
+Name3="AI IS A BRANCH OF CS WHICH DEALS WITH PROGRAMMING AND DO WORKS LIKE HUMAN BUT MORE AFFICIENT "
+Name4="AI deals with robotics and robots are more efficient than human "
+Name5="AI is main brainch and its further divided into machine learning"
+Name6="machine learnig is divided into deep learning "
+Name7="ML is further divided into supervised learning ,unsupervised learning and reinforcement learning"
+Name8="supervised learning is have to train model by giving examples "
+Name9="unsupervised learning model will traind by it self by assisment of previous experiments "
+Name10="reinforcement learning is to learn and there would a reward or punishment"
+name11="space expolaration"
+Namez="what the hell"
+Namec="marvell"
+Namev="one is one "
+nameb="loyality does not matter"
+namen="money matter bro "
+namem="space there are are different level"
+level1="mircroscopic level is first level of space "
+level2="macroscopic level is second level of space "
+level3="local level is third level of space "
+
+x=12
+
+
+x1=123
+x3=234
+x5=678
+x6=879
+x7=7890
+x8=87990
+x9=92340239
+x10=89893923
+xa=455
+xs=788
+xd=747484
+xf=8833
+xg=6723482
+xh=893989
+xj=8398349823
+xk=892394829
+xl=893892
+xv=83773
+
+x=1.2
+x1=23.5
+x2=48.99
+x3=4560.0
+x4=68590.9
+x5=.000
+x6=8.8
+x7=6790.77
+x8=980.8
+x9=7678.888
+x10=34.3
+xc=348.5
+xv=339.8
+xb=344.4
+xm=334.444
+xw=63773.8
+xq=26627.777
+xe=88773.777
+xr=77667.78
+bool1="True"
+bool2="true"
+bool3="true"
+bool4="true"
+bool="true"
+bool="false"
+bool6="true"
+bool7="best"
+bool9="true "
+bool10="false"
+boolp="false"
+boolo="true"
+Bool="true"
+Bool="true"
+bool0="false"
+bool15="true"
+boo122="true"
+bool23="false"
+bool124="false"
+bool125="true"
+bool126="false"
+bool128="true"
+bool129="false"
+print(Name1)
+print(Name2)
+print(Name3)
+print(Name4)
+print(Name5)
+print(Name6)
+print(Name7)
+print(Name8)
+print(Name9)
+print(Name10)
+print(name11)
+print(Namec)
+print(Namev)
+print(nameb)
+print(namen)
+print(namem)
+print(level1)
+print(level2)
+print(level3)
+print(x)
+print(x1)
+print(x3)
+print(x4)
+print(x5)
+print(x6)
+print(x7)
+print(x8)
+print(x9)
+print(x10)
+print(xa)
+print(xs)
+print(xd)
+print(xf)
+print(xg)
+print(xj)
+print(xk)
+print(xl)
+print(xv)
+print(x)
+print(x1)
+print(x2)
+print(x3)
+print(x4)
+print(x5)
+print(x6)
+print(x7)
+print(x8)
+print(x9)
+print(x10)
+print(xv)
+print(xv)
+print(xb)
+print(xm)
+print(xw)
+print(xq)
+print(xe)
+print(bool1)
+print(bool2)
+print(bool3)
+print(bool4)
+print(bool)
+print(bool)
+print(bool6)
+print(bool7)
+print(boolo)
+print(bool9)
+print(bool0)
+print(bool)
+print(bool)
+print(bool124)
+print(bool125)
+print(bool126)
+print(bool128)
+print(bool129)
